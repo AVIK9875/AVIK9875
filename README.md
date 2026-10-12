@@ -113,9 +113,6 @@ Developing computational workflows and interactive educational tools for sequenc
   <img src="https://raw.githubusercontent.com/AVIK9875/AVIK9875/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 </p>
 
-*To activate the contribution animation, configure the GitHub Actions workflow described below.*
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
