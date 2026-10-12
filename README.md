@@ -3,7 +3,7 @@
 ### 🧬 PhD Scholar | Molecular Biology  |  Bioinformatics 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:9333EA&height=100&section=footer" width="100%" alt="Colorful header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:9333EA&height=100&section=header" width="100%" alt="Colorful header"/>
 </p>
 
 <p align="center">
