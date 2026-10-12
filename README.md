@@ -3,7 +3,7 @@
 ### 🧬 PhD Scholar | Molecular Biology  |  Bioinformatics 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:9333EA&height=200&section=header&text=Avik%20Sarkar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Exploring%20Life%20Through%20Omics%20%26%20Computational%20Biology&descAlignY=58&descSize=16" width="100%" alt="Colorful scientific profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:9333EA&height=100&section=footer" width="100%" alt="Colorful header"/>
 </p>
 
 <p align="center">
