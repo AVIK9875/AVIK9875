@@ -97,8 +97,8 @@ Developing computational workflows and interactive educational tools for sequenc
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AVIK9875&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVIK9875&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Developing computational workflows and interactive educational tools for sequenc
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/AVIK9875/AVIK9875/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
 </p>
 
 *To activate the contribution animation, configure the GitHub Actions workflow described below.*
