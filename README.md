@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sarkaravik254@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Research-Metagenomics-0EA5E9?style=for-the-badge" alt="Metagenomics"/>
   <img src="https://img.shields.io/badge/Research-Transcriptomics-8B5CF6?style=for-the-badge" alt="Transcriptomics"/>
   <img src="https://img.shields.io/badge/Approach-Wet%20Lab%20%2B%20Dry%20Lab-10B981?style=for-the-badge" alt="Wet lab and dry lab"/>
@@ -52,7 +51,6 @@ My research integrates experimental biology and computational approaches to inve
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
 ### ⚙️ Workflow & Infrastructure
