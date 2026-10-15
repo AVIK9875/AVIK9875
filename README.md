@@ -7,8 +7,6 @@
    Avik Sarkar
   </span>
 </h1>
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Research-Metagenomics-0EA5E9?style=for-the-badge" alt="Metagenomics"/>
   <img src="https://img.shields.io/badge/Research-Transcriptomics-8B5CF6?style=for-the-badge" alt="Transcriptomics"/>
