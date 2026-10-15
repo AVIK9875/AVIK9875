@@ -17,14 +17,12 @@ I am a PhD Scholar at **Ramakrishna Mission Vivekananda Centenary College (Auton
 My research integrates experimental biology and computational approaches to investigate biological systems through large-scale omics data.
 
 🔬 **Research interests**
-- 🧬 Metagenomics and microbial diversity
-- 🧫 Transcriptomics and differential gene expression
-- 🦐 Shrimp genomics, virology, and disease biology
-- 🧪 Molecular diagnostics and gene expression analysis
-- 🖥️ Bioinformatics pipelines and reproducible research
-- 📊 Multi-omics data integration and visualization
-
-> *Connecting molecular biology with computational discovery to advance biological research.*
+🧬 Metagenomics and microbial diversity
+🧫 Transcriptomics and differential gene expression
+🦐 Shrimp genomics, virology, and disease biology
+🧪 Molecular diagnostics and gene expression analysis
+🖥️ Bioinformatics pipelines and reproducible research
+📊 Multi-omics data integration and visualization
 
 ---
 
