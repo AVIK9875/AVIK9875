@@ -123,7 +123,7 @@ I am interested in connecting with researchers, bioinformaticians, computational
 </p>
 
 <p align="center">
-  <i>Researching · Building · Learning · Exploring Multimodal AI</i>
+  <i>Researching · Sequencing · Analysing · Exploring Multi-Omics </i>
 </p>
 
 <p align="center">
