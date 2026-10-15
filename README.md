@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <span style="font-family: Georgia, serif; font-size: 45px; color: #00BFFF;">
+  <span style="font-family: Times New Roman, serif; font-size: 70px; color: #00BFFF;">
    Avik Sarkar
   </span>
 </h1>
