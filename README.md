@@ -100,7 +100,7 @@ Developing computational workflows and interactive educational tools for sequenc
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=AVIK9875&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 ---
