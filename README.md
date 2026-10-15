@@ -119,5 +119,13 @@ I am interested in connecting with researchers, bioinformaticians, computational
 📧 **Email:** [sarkaravik254@gmail.com](mailto:sarkaravik254@gmail.com)
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rik-Sarkar-07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
+
+<p align="center">
+  <i>Researching · Building · Learning · Exploring Multimodal AI</i>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:9333EA&height=100&section=footer" width="100%" alt="Colorful footer"/>
 </p>
