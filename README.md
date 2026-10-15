@@ -2,11 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:9333EA&height=100&section=header" width="100%" alt="Colorful header"/>
 </p>
 
-<h1 align="center">
-  <span style="color:#00BFFF;">
-    Avik Sarkar
-  </span>
-</h1>
+
+<h1 align="center">𝗔𝘃𝗶𝗸 𝗦𝗮𝗿𝗸𝗮𝗿</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Research-Metagenomics-0EA5E9?style=for-the-badge" alt="Metagenomics"/>
